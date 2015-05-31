@@ -9,4 +9,4 @@ Notifies you with current live score feed from goal.com. Just add the url of the
 * urllib2 - "pip install urllib2"
 * BeautifulSoup - "pip install BeautifulSoup"
 
-![alt tag](https://github.com/poke19962008/MacGoalNC/blob/master/desktop/snap.png)
+![alt tag](https://github.com/poke19962008/MacGoalNotification/blob/master/snap.png)
