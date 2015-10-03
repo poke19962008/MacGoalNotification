@@ -1,7 +1,7 @@
 # MacGoalNC
 Notifies you with current live score feed from goal.com. Just add the url of the match.
 
--run "launch.sh" file.
+`` sh launcher.sh ``
 
 <b>NOTE:</b> Install following python packages 
 
